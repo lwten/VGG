@@ -1,4 +1,4 @@
-# VGG
+# VGGNet
 利用 Vggnet-16 识别人民币面值，详细说明：https://www.tinymind.cn/articles/4185。
 文件主要包括4个：
 -vgg16_trainable.py: VGG-16的网络结构定义
